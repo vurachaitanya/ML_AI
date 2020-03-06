@@ -13,4 +13,15 @@
 -	More data more patterns complicity.
 -	Customer data which personal details, age, has credit card, in active, exited etc using mean medium and standard deviation to get the details. Linear regression & neural network. 
 -	We can use ML for financial prediction, fraud detection, loan approval, predictive maintenances, churn prediction, sentimental analysis, machine translation, data mining, web clicks, medical records, and diagnostics. 
--	
+-	New business of beverages placed in entire city but vending machine, so he setup an IOT to each device and set the priorities which is center of city which has more business, when to replace etc can be predicted for better business.
+-	Big data – distributed data, big data analysis.
+
+# Types of ML Learning:
+
+## Supervised learning: 
+-	Learning with a labeled training set, gmail spam detector with training set of already labeled emails. 
+-	We can’t use based on past data, so that it would only detect past fraud transactions but will not detect new fraud so need to use unsupervised learning.  
+## Unsupervised learning: 
+-	Discovering patterns in unlabeled data. Cluster similar (same set of patterning identified) documents based on the text content. 
+-	EX::::: Google news: creates news based on clusters like time, location, region, language, age will help to give better results and filter and share the results to users
+## Reinforcement learning: 
