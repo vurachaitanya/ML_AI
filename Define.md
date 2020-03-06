@@ -1,5 +1,5 @@
 # ML & AI
-- AI (1950)->ML(1980)->Deep Learning(2010)
+-	AI (1950)->ML(1980)->Deep Learning(2010)
 -	Data science - Data analytic.  
 -	Image processing – computer vision
 -	ML uses algorithm and DL also Algorithm 
@@ -9,3 +9,8 @@
 -	Human -  learns from experiences
 -	Machines - follow instructions
 -	Machine learning - making computers learn from experiences ie data.
+-	ML – is a field of computer science that gives computers that ability to learn without being explicit programmed
+-	More data more patterns complicity.
+-	Customer data which personal details, age, has credit card, in active, exited etc using mean medium and standard deviation to get the details. Linear regression & neural network. 
+-	We can use ML for financial prediction, fraud detection, loan approval, predictive maintenances, churn prediction, sentimental analysis, machine translation, data mining, web clicks, medical records, and diagnostics. 
+-	
