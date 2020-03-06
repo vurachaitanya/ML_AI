@@ -1,0 +1,11 @@
+# ML & AI
+- AI (1950)->ML(1980)->Deep Learning(2010)
+-	Data science - Data analytic.  
+-	Image processing – computer vision
+-	ML uses algorithm and DL also Algorithm 
+-	Using more and more data we can create algorithm to extract the data using tools to get some analysis to start business at that location.
+-	Predictive maintenance which tells your when the device failed if same stress is been used etc. 
+-	 ML – man learning bike and after few attempts we learn bike in some time. Same machine learning using the data and extracts the pattern. Mathematical algorithms. 
+-	Human -  learns from experiences
+-	Machines - follow instructions
+-	Machine learning - making computers learn from experiences ie data.
