@@ -39,6 +39,7 @@ Step 1:
 -	Data cleaning
 -	Finding the best features (takes time 60% to 70%)
 -	Ex: Understanding statistics, probability and data interpretation skills (business goal)
+
 Step 2:
 -	Preparing the ML model which can learn from the data and understand the pattern
 -	Ex: ML – Mathematics and implementation 
