@@ -5,6 +5,7 @@ ML &amp; AI Learning
 - [Simfin finance related API](https://analyticsindiamag.com/exploring-simfin-api-using-exploratory-data-analysis/)
 
 ### Learnings & tools :
+- [Google ML intro](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Automated Machine Learning with Light Auto ML](https://www.youtube.com/watch?v=4pbO673B9Oo)
 - [AI No Code Artical](https://analyticsindiamag.com/how-this-iitian-built-a-no-code-automated-video-communication-platform/)
 - [AI based Videos calling tool](https://superpro.ai/)
