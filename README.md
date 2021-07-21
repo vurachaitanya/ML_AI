@@ -2,6 +2,7 @@
 ML &amp; AI Learning
 
 - [How to start top down approach & basic content](https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/amp/)
+- [Simfin finance related API](https://analyticsindiamag.com/exploring-simfin-api-using-exploratory-data-analysis/)
 
 ### Learnings & tools :
 - [Automated Machine Learning with Light Auto ML](https://www.youtube.com/watch?v=4pbO673B9Oo)
