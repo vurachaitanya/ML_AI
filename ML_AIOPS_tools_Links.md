@@ -20,3 +20,9 @@
 - opendatahub: http://bit.ly/2y6Nh6m
 - Coe/decision rules: http://bit.ly/2CWY9YB
 - project Thoth and bots: http://bit.ly/2ZYfb6h
+
+## AI/ML Tools / Modules :
+
+#### Speech Modules: 
+- DeepSpeech2 Model
+- CRNN Model
