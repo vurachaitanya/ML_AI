@@ -37,6 +37,6 @@ import matplotlib.pyplot as plt
 #### Rank 1 Tensors:
 - Bike features:
 
-Brand|Price|Speed|CC|Breaks|Gares
----|---|---|---|---|---|---
-Honda|75K|120kmph|125|Disk|4
+|Brand|Price|Speed|CC|Breaks|Gares|
+|---|---|---|---|---|---|
+|Honda|75K|120kmph|125|Disk|4|
