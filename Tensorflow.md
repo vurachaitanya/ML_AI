@@ -35,4 +35,8 @@ import matplotlib.pyplot as plt
 - 1 can be one cloud, one line 
 
 #### Rank 1 Tensors:
-- 
+- Bike features:
+
+Brand|Price|Speed|CC|Breaks|Gares
+---|---|---|---|---|---|---
+Honda|75K|120kmph|125|Disk|4
