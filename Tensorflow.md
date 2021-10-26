@@ -40,3 +40,11 @@ import matplotlib.pyplot as plt
 |Brand|Price|Speed|CC|Breaks|Gares|
 |---|---|---|---|---|---|
 |Honda|75K|120kmph|125|Disk|4|
+
+- Each value in the table represents magnitude of the tensor. 
+- Above raw values converted to values using NLP, so as to do math on them.
+- In Tensor all the feature of magnitude should be of same type like( Int,Float,string) refereed to as **dtype**
+- Rank 1 tensor is a vector
+- Rank 1 Tensor has different magnitude with different direction but measuring one direction.
+- 6 features = 6 shape = 6 magnitude
+- N - dimensions still talking about a tensor so still rank 1 holds good for this tensor.
