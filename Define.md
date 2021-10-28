@@ -48,3 +48,17 @@ ML vs DL : In ML you need to create algorithm and DL it will learning from Data.
 ## Deep learning: 
 -	DL is part of the ML field of learning representation of data. Exceptional effective at learning patterns.
 
+### Departments 
+- Big data
+- Business intelligence
+- Data Science
+- Business Analytics
+- Data Analytics
+
+### Analysis vs Analytics
+- Analysis - Uses past data - Checks of data used for analysis.
+   - Qualitative - Explain how & Why
+   - Quantitative - data + how sales decreased last summer 
+- Analytics - forecast future
+   - Qualitative - Intuition + analysis  
+   - Quantitative - Formulas + algorithms
