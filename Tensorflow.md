@@ -30,11 +30,11 @@ import matplotlib.pyplot as plt
 - N different Axes
 - Components are features for ML.
 
-#### Rank 0 Tensors:
+### Rank 0 Tensors:
 - 1 is a scalar, has magnitude but no direction, no feature
 - 1 can be one cloud, one line 
 
-#### Rank 1 Tensors:
+### Rank 1 Tensors:
 - Bike features:
 
 |Brand|Price|Speed|CC|Breaks|Gares|
@@ -48,3 +48,24 @@ import matplotlib.pyplot as plt
 - Rank 1 Tensor has different magnitude with different direction but measuring one direction.
 - 6 features = 6 shape = 6 magnitude
 - N - dimensions still talking about a tensor so still rank 1 holds good for this tensor.
+
+### Rank 2
+- List of rows and columns 
+- Matrix combination of vectors. 
+- Magnitude and intersection of two directions 
+- 3X3 Matrix (11,12,13,21,22,23,31,32,33)
+- Rank 0 has one dimension so no moment
+- Rank 1 has to move across columns A1,A2 & A3
+
+|A1|A2|A3|
+|---|---|---|
+|Bike|400$|Gare|
+- Rank 2 Travers across two directions A an B
+- Position changes and can also depends on previous values. 
+- We can create connections between two consecutive tensors and compare their relations.
+
+|XX|A1|A2|A3|
+|---|---|---|---|
+|B1|A1B1|A2B1|A3B1|
+|B2|A1B2|A2B2|A3B3|
+|B3|A1B3|A2B3|A3B3|
